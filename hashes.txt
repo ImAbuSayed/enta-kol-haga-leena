@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Enta Kol Haga Leena
+
+This log tracks the cryptographic history and versioning for the song **Enta Kol Haga Leena** (enta-kol-haga-leena).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-09T15:38:26.316605 | `v1` | `418ae3784d0c92afa0a1d512e9928995b1d22f36e8cccbf557b0e72267848931` | `33061e6d2fa2585c6031982828ec696d61d35e5585a880ac050ebdb64826a889` | `2026-05-09_enta-kol-haga-leena-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
